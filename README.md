@@ -3,7 +3,7 @@
 \
 أيضا يملك الخيار للبحث و حقن shellcode بداخل ال cave الذي يجدة!
 \
-يدعم 32bit فقط !
+يدعم حاليا 32bit فقط .
 # صور 
 ![Photo](https://i.imgur.com/aC9KFwo.png)
 \
